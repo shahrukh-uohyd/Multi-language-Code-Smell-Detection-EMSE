@@ -53,8 +53,8 @@ public class DetectCodeSmellsAndAntiPatterns {
                 final Set<ICodeSmellDetection> codeSmellDetectors = new HashSet<>();
                 final Set<IAntiPatternDetection> antiPatternDetectors = new HashSet<>();
 
-               // codeSmellDetectors
-               //         .add(new AssumingSafeMultiLanguageReturnValuesDetectionModified());
+                codeSmellDetectors
+                       .add(new AssumingSafeMultiLanguageReturnValuesDetectionModified());
                //   codeSmellDetectors.add(new HardCodingLibrariesDetection());
                //   codeSmellDetectors.add(new LocalReferencesAbuseDetection());
                //  codeSmellDetectors.add(new MemoryManagementMismatchDetection());
@@ -69,9 +69,6 @@ public class DetectCodeSmellsAndAntiPatterns {
                //  codeSmellDetectors.add(new NotCachingObjectsElementsDetection());
                //  codeSmellDetectors.add(new UnusedDeclarationDetectionModified());
                //  //codeSmellDetectors.add(new UnusedImplementationDetectionModified());
-
-                codeSmellDetectors.add(new NotUsingSafePoints());
-
                //  //antiPatternDetectors
                //    //      .add(new ExcessiveInterLanguageCommunicationDetection());
                // antiPatternDetectors.add(new EILCModifiedForRocksdb());
