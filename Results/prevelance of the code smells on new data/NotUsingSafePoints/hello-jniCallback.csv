@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_com_example_hello_1jnicallback_MainActivity_uninstall,,,/home/shahrukh/smellDetection/Detection/cloned projects/hello-jniCallback/app/src/main/jni/hello-jnicallback.c,hello-jnicallback.c
+CS2,NotUsingSafePoints,,Java_com_example_hello_1jnicallback_MainActivity_StopTicks,,,/home/shahrukh/smellDetection/Detection/cloned projects/hello-jniCallback/app/src/main/jni/hello-jnicallback.c,hello-jnicallback.c

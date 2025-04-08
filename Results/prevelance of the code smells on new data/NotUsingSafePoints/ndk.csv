@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_com_google_sample_echo_MainActivity_createSLEngine,,,/home/shahrukh/smellDetection/Detection/cloned projects/ndk/audio-echo/src/main/cpp/audio_main.cpp,audio_main.cpp
+CS2,NotUsingSafePoints,,Java_com_example_hellolibs_MainActivity_stringFromJNI,,,/home/shahrukh/smellDetection/Detection/cloned projects/ndk/hello-libs/src/main/cpp/hello-libs.cpp,hello-libs.cpp
+CS3,NotUsingSafePoints,,Java_com_example_hellojnicallback_MainActivity_StopTicks,,,/home/shahrukh/smellDetection/Detection/cloned projects/ndk/hello-jniCallback/src/main/cpp/hello-jnicallback.c,hello-jnicallback.c

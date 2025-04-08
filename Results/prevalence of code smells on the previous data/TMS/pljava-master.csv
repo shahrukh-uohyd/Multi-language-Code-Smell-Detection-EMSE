@@ -1,0 +1,25 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchScatteringDetectio,,,Session,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Session.java
+AP2,TooMuchScatteringDetectio,,,Relation,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Relation.java
+AP3,TooMuchScatteringDetectio,,,SQLOutputToChunk,org.postgresql.pljava.jdbc,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\jdbc\SQLOutputToChunk.java
+AP4,TooMuchScatteringDetectio,,,EarlyNatives,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Backend.java
+AP5,TooMuchScatteringDetectio,,,ExecutionPlan,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\ExecutionPlan.java
+AP6,TooMuchScatteringDetectio,,,SinglePfree<T>,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\DualState.java
+AP7,TooMuchScatteringDetectio,,,SingleFreeTupleDesc<T>,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\DualState.java
+AP8,TooMuchScatteringDetectio,,,SingleHeapFreeTuple<T>,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\DualState.java
+AP9,TooMuchScatteringDetectio,,,Invocation,org.postgresql.pljava.jdbc,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\jdbc\Invocation.java
+AP10,TooMuchScatteringDetectio,,,Tuple,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Tuple.java
+AP11,TooMuchScatteringDetectio,,,TupleDesc,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\TupleDesc.java
+AP12,TooMuchScatteringDetectio,,,SingleFreeErrorData<T>,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\DualState.java
+AP13,TooMuchScatteringDetectio,,,SingleRowReader,org.postgresql.pljava.jdbc,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\jdbc\SingleRowReader.java
+AP14,TooMuchScatteringDetectio,,,SingleSPIfreeplan<T>,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\DualState.java
+AP15,TooMuchScatteringDetectio,,,TypeOid,org.postgresql.pljava.jdbc,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\jdbc\TypeOid.java
+AP16,TooMuchScatteringDetectio,,,Function,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Function.java
+AP17,TooMuchScatteringDetectio,,,EarlyNatives,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Function.java
+AP18,TooMuchScatteringDetectio,,,Oid,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Oid.java
+AP19,TooMuchScatteringDetectio,,,SPI,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\SPI.java
+AP20,TooMuchScatteringDetectio,,,SingleMemContextDelete<T>,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\DualState.java
+AP21,TooMuchScatteringDetectio,,,PgSavepoint,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\PgSavepoint.java
+AP22,TooMuchScatteringDetectio,,,SingleSPIcursorClose<T>,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\DualState.java
+AP23,TooMuchScatteringDetectio,,,State,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\VarlenaWrapper.java
+AP24,TooMuchScatteringDetectio,,,SQLXMLImpl<V extends VarlenaWrapper>,org.postgresql.pljava.jdbc,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\jdbc\SQLXMLImpl.java

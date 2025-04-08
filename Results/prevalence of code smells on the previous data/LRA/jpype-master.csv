@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,LocalReferencesAbuse,lineNum,PyTrace_FromJavaException,,,F:/abidi/jpype-master\native\common\jp_exception.cpp,jp_exception.cpp
+CS2,LocalReferencesAbuse,str,PyJPPackage_dir,,,F:/abidi/jpype-master\native\python\pyjp_package.cpp,pyjp_package.cpp
+CS3,LocalReferencesAbuse,obj,getArgs,,,F:/abidi/jpype-master\native\common\jp_proxy.cpp,jp_proxy.cpp

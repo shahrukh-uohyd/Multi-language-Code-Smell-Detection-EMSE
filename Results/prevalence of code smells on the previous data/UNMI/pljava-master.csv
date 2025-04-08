@@ -1,0 +1,20 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,_clearFunctionCache,Backend,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Backend.java,Backend.java
+CS2,UnusedImplementationDetectio,,_myLibraryPath,Backend,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Backend.java,Backend.java
+CS3,UnusedImplementationDetectio,,_getStatementCacheSize,Backend,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Backend.java,Backend.java
+CS4,UnusedImplementationDetectio,,_storeToUDT,Function,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Function.java,Function.java
+CS5,UnusedImplementationDetectio,,_getName,AclId,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\AclId.java,AclId.java
+CS6,UnusedImplementationDetectio,,_clearErrorCondition,Invocation,org.postgresql.pljava.jdbc,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\jdbc\Invocation.java,Invocation.java
+CS7,UnusedImplementationDetectio,,_isSuperuser,AclId,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\AclId.java,AclId.java
+CS8,UnusedImplementationDetectio,,_storeToNonUDT,Function,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Function.java,Function.java
+CS9,UnusedImplementationDetectio,,_getTypeId,Oid,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Oid.java,Oid.java
+CS10,UnusedImplementationDetectio,,_getObject,Tuple,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Tuple.java,Tuple.java
+CS11,UnusedImplementationDetectio,,isCallingJava,Backend,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Backend.java,Backend.java
+CS12,UnusedImplementationDetectio,,_isCreatingExtension,Backend,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Backend.java,Backend.java
+CS13,UnusedImplementationDetectio,,_freeTupTable,SPI,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\SPI.java,SPI.java
+CS14,UnusedImplementationDetectio,,_getResult,SPI,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\SPI.java,SPI.java
+CS15,UnusedImplementationDetectio,,_dummy,TypeOid,org.postgresql.pljava.jdbc,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\jdbc\TypeOid.java,TypeOid.java
+CS16,UnusedImplementationDetectio,,_getOuterUser,AclId,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\AclId.java,AclId.java
+CS17,UnusedImplementationDetectio,,_getUser,AclId,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\AclId.java,AclId.java
+CS18,UnusedImplementationDetectio,,_pokeJEP411,Backend,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\Backend.java,Backend.java
+CS19,UnusedImplementationDetectio,,_getProcessed,SPI,org.postgresql.pljava.internal,F:/abidi/pljava-master\pljava\src\main\java\org\postgresql\pljava\internal\SPI.java,SPI.java

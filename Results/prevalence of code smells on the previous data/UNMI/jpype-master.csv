@@ -1,0 +1,11 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedImplementationDetectio,,defineObjectClass,TypeFactoryNative,org.jpype.manager,F:/abidi/jpype-master\native\java\org\jpype\manager\TypeFactoryNative.java,TypeFactoryNative.java
+CS2,UnusedImplementationDetectio,,defineMethod,TypeFactoryNative,org.jpype.manager,F:/abidi/jpype-master\native\java\org\jpype\manager\TypeFactoryNative.java,TypeFactoryNative.java
+CS3,UnusedImplementationDetectio,,newWrapper,TypeFactoryNative,org.jpype.manager,F:/abidi/jpype-master\native\java\org\jpype\manager\TypeFactoryNative.java,TypeFactoryNative.java
+CS4,UnusedImplementationDetectio,,defineArrayClass,TypeFactoryNative,org.jpype.manager,F:/abidi/jpype-master\native\java\org\jpype\manager\TypeFactoryNative.java,TypeFactoryNative.java
+CS5,UnusedImplementationDetectio,,assignMembers,TypeFactoryNative,org.jpype.manager,F:/abidi/jpype-master\native\java\org\jpype\manager\TypeFactoryNative.java,TypeFactoryNative.java
+CS6,UnusedImplementationDetectio,,definePrimitive,TypeFactoryNative,org.jpype.manager,F:/abidi/jpype-master\native\java\org\jpype\manager\TypeFactoryNative.java,TypeFactoryNative.java
+CS7,UnusedImplementationDetectio,,defineMethodDispatch,TypeFactoryNative,org.jpype.manager,F:/abidi/jpype-master\native\java\org\jpype\manager\TypeFactoryNative.java,TypeFactoryNative.java
+CS8,UnusedImplementationDetectio,,populateMethod,TypeFactoryNative,org.jpype.manager,F:/abidi/jpype-master\native\java\org\jpype\manager\TypeFactoryNative.java,TypeFactoryNative.java
+CS9,UnusedImplementationDetectio,,destroy,TypeFactoryNative,org.jpype.manager,F:/abidi/jpype-master\native\java\org\jpype\manager\TypeFactoryNative.java,TypeFactoryNative.java
+CS10,UnusedImplementationDetectio,,defineField,TypeFactoryNative,org.jpype.manager,F:/abidi/jpype-master\native\java\org\jpype\manager\TypeFactoryNative.java,TypeFactoryNative.java

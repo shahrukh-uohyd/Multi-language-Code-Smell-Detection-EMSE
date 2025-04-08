@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_de_hhu_bsinfo_jdetector_lib_IbFabric_init,,,/home/shahrukh/smellDetection/Detection/cloned projects/jdetector/src/main/cpp/detector-jni/IbFabric.cpp,IbFabric.cpp
+CS2,NotUsingSafePoints,,Java_de_hhu_bsinfo_jdetector_lib_IbDiagPerfCounter_getLocalPorts,,,/home/shahrukh/smellDetection/Detection/cloned projects/jdetector/src/main/cpp/detector-jni/IbDiagPerfCounter.cpp,IbDiagPerfCounter.cpp

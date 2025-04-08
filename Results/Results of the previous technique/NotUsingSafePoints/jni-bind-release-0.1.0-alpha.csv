@@ -1,0 +1,10 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_com_jnibind_test_ArrayTest_nativeObjectTests,,,/home/shahrukh/smellDetection/Detection/cloned projects/jni-bind-release-0.1.0-alpha/javatests/com/jnibind/test/array_test_jni.cc,array_test_jni.cc
+CS2,NotUsingSafePoints,,Java_com_jnibind_test_ArrayTest_nativeBooleanTests,,,/home/shahrukh/smellDetection/Detection/cloned projects/jni-bind-release-0.1.0-alpha/javatests/com/jnibind/test/array_test_jni.cc,array_test_jni.cc
+CS3,NotUsingSafePoints,,Java_com_jnibind_test_ArrayTest_nativeShortTests,,,/home/shahrukh/smellDetection/Detection/cloned projects/jni-bind-release-0.1.0-alpha/javatests/com/jnibind/test/array_test_jni.cc,array_test_jni.cc
+CS4,NotUsingSafePoints,,Java_com_jnibind_test_ArrayTest_nativeDoubleTests,,,/home/shahrukh/smellDetection/Detection/cloned projects/jni-bind-release-0.1.0-alpha/javatests/com/jnibind/test/array_test_jni.cc,array_test_jni.cc
+CS5,NotUsingSafePoints,,Java_com_jnibind_test_ArrayTest_nativeLongTests,,,/home/shahrukh/smellDetection/Detection/cloned projects/jni-bind-release-0.1.0-alpha/javatests/com/jnibind/test/array_test_jni.cc,array_test_jni.cc
+CS6,NotUsingSafePoints,,Java_com_jnibind_test_ArrayTest_nativeIntTests,,,/home/shahrukh/smellDetection/Detection/cloned projects/jni-bind-release-0.1.0-alpha/javatests/com/jnibind/test/array_test_jni.cc,array_test_jni.cc
+CS7,NotUsingSafePoints,,Java_com_jnibind_test_ArrayTest_nativeFloatTests,,,/home/shahrukh/smellDetection/Detection/cloned projects/jni-bind-release-0.1.0-alpha/javatests/com/jnibind/test/array_test_jni.cc,array_test_jni.cc
+CS8,NotUsingSafePoints,,Java_com_jnibind_test_ArrayTest_nativeByteTests,,,/home/shahrukh/smellDetection/Detection/cloned projects/jni-bind-release-0.1.0-alpha/javatests/com/jnibind/test/array_test_jni.cc,array_test_jni.cc
+CS9,NotUsingSafePoints,,Java_com_jnibind_test_ArrayTest_nativeCharTests,,,/home/shahrukh/smellDetection/Detection/cloned projects/jni-bind-release-0.1.0-alpha/javatests/com/jnibind/test/array_test_jni.cc,array_test_jni.cc

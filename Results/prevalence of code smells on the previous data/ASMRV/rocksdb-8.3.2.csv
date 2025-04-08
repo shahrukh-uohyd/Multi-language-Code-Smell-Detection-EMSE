@@ -1,0 +1,7 @@
+Id_Table,ID,Name,Variable,Method,Class,Package,File
+1,CS1,AssumingSafeMultiLanguageReturnValues,()Ljava/lang/String,getNameMethodId,,,rocksdb-master/java/rocksjni/portal.h
+2,CS2,AssumingSafeMultiLanguageReturnValues,(J)S,getWriteProxyMethodId,,,rocksdb-master/java/rocksjni/portal.h
+4,CS4,AssumingSafeMultiLanguageReturnValues,(Ljava/util/MapLjava/util/Map)V,getColumnFamilyLogNumberMapMethodId,,,rocksdb-master/java/rocksjni/portal.h
+5,CS5,AssumingSafeMultiLanguageReturnValues,()J,getGetFileSizeMethodId,,,rocksdb-master/java/rocksjni/portal.h
+6,CS6,AssumingSafeMultiLanguageReturnValues,(JLjava/lang/StringJJ)S,getLogRecordFoundProxyMethodId,,,rocksdb-master/java/rocksjni/portal.h
+7,CS7,AssumingSafeMultiLanguageReturnValues,()S,getCloseWriterProxyMethodId,,,rocksdb-master/java/rocksjni/portal.h

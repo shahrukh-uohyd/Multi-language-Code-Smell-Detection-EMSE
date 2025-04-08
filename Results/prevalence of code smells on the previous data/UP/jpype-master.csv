@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,UnusedParameters,boxedPtr,Java_org_jpype_manager_TypeFactoryNative_definePrimitive,,,F:/abidi/jpype-master\native\common\jp_typefactory.cpp,jp_typefactory.cpp
+CS2,UnusedParameters,modifiers,Java_org_jpype_manager_TypeFactoryNative_definePrimitive,,,F:/abidi/jpype-master\native\common\jp_typefactory.cpp,jp_typefactory.cpp

@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_com_glumes_cppso_jnioperations_ArrayTypeOps_printAnimalsName,,,/home/shahrukh/smellDetection/Detection/cloned projects/AndroidDevWithCpp/cppso/src/main/cpp/jnioperations/array-type-operation.cpp,array-type-operation.cpp
+CS2,NotUsingSafePoints,,Java_com_glumes_cppso_jnioperations_FieldAndMethodOps_callStaticMethod,,,/home/shahrukh/smellDetection/Detection/cloned projects/AndroidDevWithCpp/cppso/src/main/cpp/jnioperations/filed_and_method_operation.cpp,filed_and_method_operation.cpp
+CS3,NotUsingSafePoints,,Java_com_glumes_cppso_jnioperations_ThreadOps_posixThreads,,,/home/shahrukh/smellDetection/Detection/cloned projects/AndroidDevWithCpp/cppso/src/main/cpp/jnioperations/thread_operation.cpp,thread_operation.cpp
+CS4,NotUsingSafePoints,,Java_com_glumes_cppso_jnioperations_ArrayTypeOps_getTwoDimensionalArray,,,/home/shahrukh/smellDetection/Detection/cloned projects/AndroidDevWithCpp/cppso/src/main/cpp/jnioperations/array-type-operation.cpp,array-type-operation.cpp

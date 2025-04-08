@@ -1,0 +1,8 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"java/lang/String",Java_org_sosy_1lab_java_1smt_solvers_boolector_BtorJNI_boolector_1uf_1assignment_1helper,,,F:/abidi/java-smt-master\lib\native\source\libboolector\interface_wrap.c,interface_wrap.c
+CS2,NotHandlingExceptions,"java/lang/String",Java_org_sosy_1lab_java_1smt_solvers_boolector_BtorJNI_boolector_1help_1parse,,,F:/abidi/java-smt-master\lib\native\source\libboolector\interface_wrap.c,interface_wrap.c
+CS3,NotHandlingExceptions,"org/sosy_lab/java_smt/solvers/boolector/BtorJNI$TerminationCallback",Java_org_sosy_1lab_java_1smt_solvers_boolector_BtorJNI_boolector_1set_1termination,,,F:/abidi/java-smt-master\lib\native\source\libboolector\interface_wrap.c,interface_wrap.c
+CS4,NotHandlingExceptions,"[Ljava/lang/Object;",Java_org_sosy_1lab_java_1smt_solvers_boolector_BtorJNI_boolector_1uf_1assignment_1helper,,,F:/abidi/java-smt-master\lib\native\source\libboolector\interface_wrap.c,interface_wrap.c
+CS5,NotHandlingExceptions,"shouldTerminate",Java_org_sosy_1lab_java_1smt_solvers_boolector_BtorJNI_boolector_1set_1termination,,,F:/abidi/java-smt-master\lib\native\source\libboolector\interface_wrap.c,interface_wrap.c
+CS6,NotHandlingExceptions,"java/lang/String",Java_org_sosy_1lab_java_1smt_solvers_boolector_BtorJNI_boolector_1array_1assignment_1helper,,,F:/abidi/java-smt-master\lib\native\source\libboolector\interface_wrap.c,interface_wrap.c
+CS7,NotHandlingExceptions,"[Ljava/lang/Object;",Java_org_sosy_1lab_java_1smt_solvers_boolector_BtorJNI_boolector_1array_1assignment_1helper,,,F:/abidi/java-smt-master\lib\native\source\libboolector\interface_wrap.c,interface_wrap.c

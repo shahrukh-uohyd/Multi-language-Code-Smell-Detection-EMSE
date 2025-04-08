@@ -1,0 +1,3 @@
+Id_Table,ID,Name,Variable,Method,Class,Package,File
+22,CS22,NotUsingRelativePath,/,load,RocksDB,org.rocksdb,rocksdb-master/java/src/main/java/org/rocksdb/RocksDB.java
+22,CS22,NotUsingRelativePath,/,load,RocksDB,org.rocksdb,rocksdb-master/java/src/main/java/org/rocksdb/RocksDB.java

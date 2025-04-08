@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,StringUTFChars,Java_org_sosy_1lab_java_1smt_solvers_boolector_BtorJNI_boolector_1set_1trapi,,,F:/abidi/java-smt-master\lib\native\source\libboolector\interface_wrap.c,interface_wrap.c
+CS2,MemoryManagementMismatch,StringUTFChars,Java_org_sosy_1lab_java_1smt_solvers_boolector_BtorJNI_boolector_1help_1parse,,,F:/abidi/java-smt-master\lib\native\source\libboolector\interface_wrap.c,interface_wrap.c

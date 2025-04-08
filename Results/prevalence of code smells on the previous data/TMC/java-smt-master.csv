@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,BtorJNI,org.sosy_lab.java_smt.solvers.boolector,F:/abidi/java-smt-master\src\org\sosy_lab\java_smt\solvers\boolector\BtorJNI.java
+AP2,TooMuchClusteringDetectio,,,Mathsat5NativeApi,org.sosy_lab.java_smt.solvers.mathsat5,F:/abidi/java-smt-master\src\org\sosy_lab\java_smt\solvers\mathsat5\Mathsat5NativeApi.java
+AP3,TooMuchClusteringDetectio,,,Yices2NativeApi,org.sosy_lab.java_smt.solvers.yices2,F:/abidi/java-smt-master\src\org\sosy_lab\java_smt\solvers\yices2\Yices2NativeApi.java

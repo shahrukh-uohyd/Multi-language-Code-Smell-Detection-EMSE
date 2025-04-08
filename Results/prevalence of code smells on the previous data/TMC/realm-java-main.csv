@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP94,TooMuchClusteringDetectio,,,Table,io.realm.internal,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/java/io/realm/internal/Table.java,
+AP95,TooMuchClusteringDetectio,,,OsObjectBuilder,io.realm.internal.objectstore,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/java/io/realm/internal/objectstore/OsObjectBuilder.java,
+AP96,TooMuchClusteringDetectio,,,RealmLog,io.realm.log,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/java/io/realm/log/RealmLog.java,

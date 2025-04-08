@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,MemoryManagementMismatch,StringUTFChars,addSubscription,,,F:/abidi/vlc-android-master\vlc-android-master\medialibrary\jni\medialibrary.cpp,medialibrary.cpp
+CS2,MemoryManagementMismatch,StringUTFChars,constructML,,,F:/abidi/vlc-android-master\vlc-android-master\medialibrary\jni\medialibrary.cpp,medialibrary.cpp

@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_org_echocat_jopus_OpusHeaderJNI_setStreamMap,,,/home/shahrukh/smellDetection/Detection/cloned projects/jopus/src/main/c/org_echocat_jopus_OpusHeaderJNI.c,org_echocat_jopus_OpusHeaderJNI.c
+CS2,NotUsingSafePoints,,Java_org_echocat_jopus_OpusHeaderJNI_getStreamMap,,,/home/shahrukh/smellDetection/Detection/cloned projects/jopus/src/main/c/org_echocat_jopus_OpusHeaderJNI.c,org_echocat_jopus_OpusHeaderJNI.c

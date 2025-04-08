@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_tel_schich_javacan_NativeInterface_setFilter,,,/home/shahrukh/smellDetection/Detection/cloned projects/javacan-1.2/src/main/c/javacan_socketcan.c,javacan_socketcan.c

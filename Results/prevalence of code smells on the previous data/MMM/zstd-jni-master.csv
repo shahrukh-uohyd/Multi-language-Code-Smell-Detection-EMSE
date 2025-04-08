@@ -1,0 +1,13 @@
+Id_Table,ID,Name,Variable,Method,Class,Package,File Path,File Name,System,Version,Release
+18,CS18,MemoryManagementMismatch,BooleanArrayElements,GetBooleanArrayElements,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019
+19,CS19,MemoryManagementMismatch,PrimitiveArrayCritical,GetPrimitiveArrayCritical,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019
+20,CS20,MemoryManagementMismatch,ShortArrayElements,GetShortArrayElements,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019
+21,CS21,MemoryManagementMismatch,DoubleArrayElements,GetDoubleArrayElements,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019
+22,CS22,MemoryManagementMismatch,IntArrayElements,GetIntArrayElements,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019
+23,CS23,MemoryManagementMismatch,FloatArrayElements,GetFloatArrayElements,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019
+24,CS24,MemoryManagementMismatch,StringCritical,GetStringCritical,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019
+25,CS25,MemoryManagementMismatch,LongArrayElements,GetLongArrayElements,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019
+26,CS26,MemoryManagementMismatch,StringUTFChars,GetStringUTFChars,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019
+27,CS27,MemoryManagementMismatch,ByteArrayElements,GetByteArrayElements,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019
+28,CS28,MemoryManagementMismatch,CharArrayElements,GetCharArrayElements,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019
+29,CS29,MemoryManagementMismatch,StringChars,GetStringChars,,,zstd-jni-master/jni/jni.h,jni.h,zstd-jni,zstd-jni-master,8/19/2019

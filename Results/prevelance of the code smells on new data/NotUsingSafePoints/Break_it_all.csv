@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_com_example_game_jni_BreakItAll_getTestsList,,,/home/shahrukh/smellDetection/Detection/cloned projects/Break_it_all/app/src/main/cpp/androidlib/androidLib.cpp,androidLib.cpp
+CS2,NotUsingSafePoints,,Java_com_example_game_jni_Game_getTestsList,,,/home/shahrukh/smellDetection/Detection/cloned projects/Break_it_all/app/src/main/cpp/androidlib/main.cpp,main.cpp

@@ -1,0 +1,4 @@
+Id_Table,ID,Name,Variable,Method,Class,Package,File
+10,CS10,MemoryManagementMismatch,ByteArrayElements,txn_write_kv_parts_helper,,,rocksdb-master/java/rocksjni/transaction.cc
+11,CS11,MemoryManagementMismatch,ByteArrayElements,txn_multi_get_helper,,,rocksdb-master/java/rocksjni/transaction.cc
+12,CS12,MemoryManagementMismatch,ByteArrayElements,txn_write_k_parts_helper,,,rocksdb-master/java/rocksjni/transaction.cc

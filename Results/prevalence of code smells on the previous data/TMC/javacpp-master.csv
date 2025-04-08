@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+AP1,TooMuchClusteringDetectio,,,BytePointer,org.bytedeco.javacpp,F:/abidi/javacpp-master\src\main\java\org\bytedeco\javacpp\BytePointer.java
+AP2,TooMuchClusteringDetectio,,,Pointer,org.bytedeco.javacpp,F:/abidi/javacpp-master\src\main\java\org\bytedeco\javacpp\Pointer.java
+AP3,TooMuchClusteringDetectio,,,Loader,org.bytedeco.javacpp,F:/abidi/javacpp-master\src\main\java\org\bytedeco\javacpp\Loader.java

@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,LocalReferencesAbuse,cipherSuite,NativeCrypto_SSL_set_cipher_lists,,,/home/shahrukh/smellDetection/Detection/projects/abidi/conscrypt-master/common/src/jni/main/cpp/conscrypt/native_crypto.cc,native_crypto.cc
+CS2,LocalReferencesAbuse,certArray,NativeCrypto_setLocalCertsAndPrivateKey,,,/home/shahrukh/smellDetection/Detection/projects/abidi/conscrypt-master/common/src/jni/main/cpp/conscrypt/native_crypto.cc,native_crypto.cc
+CS3,LocalReferencesAbuse,principal,NativeCrypto_SSL_set_client_CA_list,,,/home/shahrukh/smellDetection/Detection/projects/abidi/conscrypt-master/common/src/jni/main/cpp/conscrypt/native_crypto.cc,native_crypto.cc
+CS4,LocalReferencesAbuse,item,NativeCrypto_get_X509_GENERAL_NAME_stack,,,/home/shahrukh/smellDetection/Detection/projects/abidi/conscrypt-master/common/src/jni/main/cpp/conscrypt/native_crypto.cc,native_crypto.cc

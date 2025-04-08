@@ -1,0 +1,5 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_tel_schich_javacan_SocketCAN_receiveWithJ1939Headers,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaCAN/core/src/main/c/javacan_j1939.c,javacan_j1939.c
+CS2,NotUsingSafePoints,,Java_tel_schich_javacan_platform_linux_epoll_EPoll_poll,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaCAN/epoll/src/main/c/javacan_epoll.c,javacan_epoll.c
+CS3,NotUsingSafePoints,,Java_tel_schich_javacan_SocketCAN_receiveWithRawHeaders,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaCAN/core/src/main/c/javacan_raw.c,javacan_raw.c
+CS4,NotUsingSafePoints,,Java_tel_schich_javacan_platform_linux_epoll_EPoll_extractEvents,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaCAN/epoll/src/main/c/javacan_epoll.c,javacan_epoll.c

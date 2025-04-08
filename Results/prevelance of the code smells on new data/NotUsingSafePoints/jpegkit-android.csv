@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_libjpeg_TurboJpeg_tjTransform,,,/home/shahrukh/smellDetection/Detection/cloned projects/jpegkit-android/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp
+CS2,NotUsingSafePoints,,Java_libjpeg_TurboJpeg_tjGetScalingFactors,,,/home/shahrukh/smellDetection/Detection/cloned projects/jpegkit-android/jpegkit/src/main/cpp/jpegkit/tjwrapper.cpp,tjwrapper.cpp

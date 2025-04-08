@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_org_rajawali3d_tinyloaderbridge_Bridge_getVertexIndices,,,/home/shahrukh/smellDetection/Detection/cloned projects/RajawaliTollBridge/app/src/main/cpp/native-lib.cpp,native-lib.cpp
+CS2,NotUsingSafePoints,,Java_org_rajawali3d_tinyloaderbridge_Bridge_getTextureIndices,,,/home/shahrukh/smellDetection/Detection/cloned projects/RajawaliTollBridge/app/src/main/cpp/native-lib.cpp,native-lib.cpp
+CS3,NotUsingSafePoints,,Java_org_rajawali3d_tinyloaderbridge_Bridge_getNormalIndices,,,/home/shahrukh/smellDetection/Detection/cloned projects/RajawaliTollBridge/app/src/main/cpp/native-lib.cpp,native-lib.cpp

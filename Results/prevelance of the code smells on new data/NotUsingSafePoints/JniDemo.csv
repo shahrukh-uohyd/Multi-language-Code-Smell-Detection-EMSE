@@ -1,0 +1,3 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_com_panda912_jnidemo_string_StringUtils_similarDegree,,,/home/shahrukh/smellDetection/Detection/cloned projects/JniDemo/app/src/main/cpp/stringutils.cpp,stringutils.cpp
+CS2,NotUsingSafePoints,,Java_com_panda912_jnidemo_blur_StackoverflowBlur_fastBlur,,,/home/shahrukh/smellDetection/Detection/cloned projects/JniDemo/app/src/main/cpp/blur/blur_sof.cpp,blur_sof.cpp

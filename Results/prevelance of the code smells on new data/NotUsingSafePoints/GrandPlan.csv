@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_tech_npwd_gp_backend_Frameworks_removeEvent,,,/home/shahrukh/smellDetection/Detection/cloned projects/GrandPlan/app/src/main/cpp/GrandPlanAPI.cpp,GrandPlanAPI.cpp
+CS2,NotUsingSafePoints,,Java_tech_npwd_gp_backend_Frameworks_fabricateStamp,,,/home/shahrukh/smellDetection/Detection/cloned projects/GrandPlan/app/src/main/cpp/GrandPlanAPI.cpp,GrandPlanAPI.cpp
+CS3,NotUsingSafePoints,,Java_tech_npwd_gp_backend_Frameworks_dataRetrieval,,,/home/shahrukh/smellDetection/Detection/cloned projects/GrandPlan/app/src/main/cpp/GrandPlanAPI.cpp,GrandPlanAPI.cpp

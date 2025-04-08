@@ -1,0 +1,8 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,className,JNI_findClass,,,F:/abidi/pljava-master\pljava-so\src\main\c\JNICalls.c,JNICalls.c
+CS2,NotHandlingExceptions,name,JNI_getMethodID,,,F:/abidi/pljava-master\pljava-so\src\main\c\JNICalls.c,JNICalls.c
+CS3,NotHandlingExceptions,name,JNI_getStaticMethodIDOrNull,,,F:/abidi/pljava-master\pljava-so\src\main\c\JNICalls.c,JNICalls.c
+CS4,NotHandlingExceptions,name,JNI_getFieldID,,,F:/abidi/pljava-master\pljava-so\src\main\c\JNICalls.c,JNICalls.c
+CS5,NotHandlingExceptions,name,JNI_getStaticMethodID,,,F:/abidi/pljava-master\pljava-so\src\main\c\JNICalls.c,JNICalls.c
+CS6,NotHandlingExceptions,name,JNI_getFieldIDOrNull,,,F:/abidi/pljava-master\pljava-so\src\main\c\JNICalls.c,JNICalls.c
+CS7,NotHandlingExceptions,name,JNI_getStaticFieldID,,,F:/abidi/pljava-master\pljava-so\src\main\c\JNICalls.c,JNICalls.c

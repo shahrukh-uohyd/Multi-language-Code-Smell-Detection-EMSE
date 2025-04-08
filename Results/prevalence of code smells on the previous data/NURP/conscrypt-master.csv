@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingRelativePath,"javacrypto",init,NativeCryptoJni,org.conscrypt,/home/shahrukh/smellDetection/Detection/projects/abidi/conscrypt-master/platform/src/main/java/org/conscrypt/NativeCryptoJni.java,NativeCryptoJni.java
+CS2,NotUsingRelativePath,"conscrypt_gmscore_jni",init,NativeCryptoJni,org.conscrypt,/home/shahrukh/smellDetection/Detection/projects/abidi/conscrypt-master/android/src/main/java/org/conscrypt/NativeCryptoJni.java,NativeCryptoJni.java
+CS3,NotUsingRelativePath,"conscrypt_jni",init,NativeCryptoJni,org.conscrypt,/home/shahrukh/smellDetection/Detection/projects/abidi/conscrypt-master/android/src/main/java/org/conscrypt/NativeCryptoJni.java,NativeCryptoJni.java

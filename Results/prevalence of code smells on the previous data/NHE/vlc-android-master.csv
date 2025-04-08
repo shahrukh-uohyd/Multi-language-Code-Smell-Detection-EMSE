@@ -1,0 +1,4 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotHandlingExceptions,"java/lang/String",devices,,,F:/abidi/vlc-android-master\vlc-android-master\medialibrary\jni\medialibrary.cpp,medialibrary.cpp
+CS2,NotHandlingExceptions,"java/lang/String",entryPoints,,,F:/abidi/vlc-android-master\vlc-android-master\medialibrary\jni\medialibrary.cpp,medialibrary.cpp
+CS3,NotHandlingExceptions,"java/lang/String",bannedFolders,,,F:/abidi/vlc-android-master\vlc-android-master\medialibrary\jni\medialibrary.cpp,medialibrary.cpp

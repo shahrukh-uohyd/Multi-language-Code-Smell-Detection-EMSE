@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS17,NotSecuringLibraries,libraryCandidateName,loadCorrectLibrary,RealmCore,io.realm.internal,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/java/io/realm/internal/RealmCore.java,RealmCore.java

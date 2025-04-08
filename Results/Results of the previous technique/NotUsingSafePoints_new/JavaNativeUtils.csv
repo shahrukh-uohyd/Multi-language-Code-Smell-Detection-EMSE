@@ -1,0 +1,15 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS1,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNILinuxNativeUtil_poll,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/linux/fd.c,fd.c
+CS2,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNILinuxNativeUtil_if_1nameindex,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/linux/if.c,if.c
+CS3,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNILinuxNativeUtil_getlogin_1r,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/linux/user.c,user.c
+CS4,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNILinuxNativeUtil_wordexp,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/linux/env.c,env.c
+CS5,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNILinuxNativeUtil_recvfrom,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/linux/sock.c,sock.c
+CS6,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNILinuxNativeUtil_getgrgid_1r,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/linux/user.c,user.c
+CS7,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNIWindowsNativeUtil_GetEnvironmentVariableA,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/windows/env.c,env.c
+CS8,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNILinuxNativeUtil_parseCMSG_1HDR,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/linux/sock.c,sock.c
+CS9,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNIWindowsNativeUtil_FormatMessageA,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/windows/errno.c,errno.c
+CS10,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNILinuxNativeUtil_getgrouplist,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/linux/user.c,user.c
+CS11,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNIWindowsNativeUtil_GetModuleFileNameA,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/windows/env.c,env.c
+CS12,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNIWindowsNativeUtil_RegEnumValueA,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/windows/registry.c,registry.c
+CS13,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNIWindowsNativeUtil_RegQueryValueExA,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/windows/registry.c,registry.c
+CS14,NotUsingSafePoints,,Java_eu_aschuetz_nativeutils_impl_JNILinuxNativeUtil_readlink,,,/home/shahrukh/smellDetection/Detection/cloned projects/JavaNativeUtils/JavaNativeUtilsJni/src/main/native/linux/links.c,links.c

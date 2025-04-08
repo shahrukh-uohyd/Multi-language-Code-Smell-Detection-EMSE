@@ -1,0 +1,8 @@
+Id_Table,ID,Name,Variable,Method,Class,Package,File
+23,CS23,HardCodingLibraries,compressionType.getLibraryName(),,DbBenchmark,org.rocksdb.benchmark,rocksdb-main/java/benchmark/src/main/java/org/rocksdb/benchmark/DbBenchmark.java
+23,CS23,HardCodingLibraries,sharedLibraryName,loadLibrary,NativeLibraryLoader,org.rocksdb,rocksdb-master/java/src/main/java/org/rocksdb/NativeLibraryLoader.java
+24,CS24,HardCodingLibraries,jniLibraryName,loadLibrary,NativeLibraryLoader,org.rocksdb,rocksdb-master/java/src/main/java/org/rocksdb/NativeLibraryLoader.java
+24,CS24,HardCodingLibraries,fallbackJniLibraryName,loadLibrary,NativeLibraryLoader,org.rocksdb,rocksdb-master/java/src/main/java/org/rocksdb/NativeLibraryLoader.java
+24,CS24,HardCodingLibraries,compressionType.getLibraryName,loadLibrary,RocksDB,org.rocksdb,rocksdb-main/java/src/main/java/org/rocksdb/RocksDB.java
+24,CS24,HardCodingLibraries,"path+""/""+Environment.getSharedLibraryFileName(compressionType.getLibraryName())",loadLibrary,RocksDB,org.rocksdb,rocksdb-main/java/src/main/java/org/rocksdb/RocksDB.java
+24,CS24,HardCodingLibraries,"path+""/""+Environment.getJniLibraryFileName(“rocksdbjni”)",loadLibrary,RocksDB,org.rocksdb,rocksdb-main/java/src/main/java/org/rocksdb/RocksDB.java

@@ -1,0 +1,7 @@
+1,CS1,AssumingSafeMultiLanguageReturnValues,()Ljava/lang/String,getNameMethodId,,,rocksdb-master/java/rocksjni/portal.h
+13,CS13,NotHandlingExceptions,()Ljava/lang/String,getNameMethodId,,,rocksdb-master/java/rocksjni/portal.h
+14,CS14,NotHandlingExceptions,(J)S,getWriteProxyMethodId,,,rocksdb-master/java/rocksjni/portal.h
+16,CS16,NotHandlingExceptions,(Ljava/util/MapLjava/util/Map)V,getColumnFamilyLogNumberMapMethodId,,,rocksdb-master/java/rocksjni/portal.h
+17,CS17,NotHandlingExceptions,()J,getGetFileSizeMethodId,,,rocksdb-master/java/rocksjni/portal.h
+18,CS18,NotHandlingExceptions,(JLjava/lang/StringJJ)S,getLogRecordFoundProxyMethodId,,,rocksdb-master/java/rocksjni/portal.h
+19,CS19,NotHandlingExceptions,()S,getCloseWriterProxyMethodId,,,rocksdb-master/java/rocksjni/portal.h

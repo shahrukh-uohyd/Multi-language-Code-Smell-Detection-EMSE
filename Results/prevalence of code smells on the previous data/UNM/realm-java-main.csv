@@ -1,0 +1,2 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS3,UnusedDeclarationDetectio,,forceJNIHeaderGeneration,LogLevel,io.realm.log,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/java/io/realm/log/LogLevel.java,LogLevel.java

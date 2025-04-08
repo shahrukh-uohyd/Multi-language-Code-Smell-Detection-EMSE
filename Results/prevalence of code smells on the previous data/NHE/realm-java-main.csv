@@ -1,0 +1,14 @@
+ID,Name,Variable,Method,Class,Package,File,File Name
+CS4,NotHandlingExceptions,method_name,,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/java_network_transport.hpp,java_network_transport.hpp
+CS5,NotHandlingExceptions,java/lang/UnsupportedOperationException,ThrowException,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS6,NotHandlingExceptions,java/lang/RuntimeException,ThrowException,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS7,NotHandlingExceptions,java/lang/ArrayIndexOutOfBoundsException,ThrowException,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS8,NotHandlingExceptions,JavaExceptionDef::OutOfMemory,ThrowException,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS9,NotHandlingExceptions,io/realm/internal/async/BadVersionException,ThrowException,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS10,NotHandlingExceptions,class_name,JavaClass::get_jclass,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/jni_util/java_class.cpp,java_class.cpp
+CS11,NotHandlingExceptions,java/lang/IllegalArgumentException,ThrowException,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS12,NotHandlingExceptions,java/lang/IllegalStateException,ThrowException,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS13,NotHandlingExceptions,java/lang/ClassNotFoundException,ThrowException,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS14,NotHandlingExceptions,log,,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/jni_util/log.cpp,log.cpp
+CS15,NotHandlingExceptions,io/realm/exceptions/RealmError,ThrowException,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/util.cpp,util.cpp
+CS16,NotHandlingExceptions,java/util/IllegalFormatException,ThrowException,,,/home/shahrukh/smellDetection/Detection/projects/abidi/realm-java-main/realm/realm-library/src/main/cpp/util.cpp,util.cpp
