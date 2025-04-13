@@ -13,8 +13,7 @@ import org.w3c.dom.Document;
 import mlssdd.codesmells.detection.repository.UnusedImplementationDetectionModified;
 
 import mlssdd.antipatterns.detection.IAntiPatternDetection;
-import mlssdd.antipatterns.detection.repository.ExcessiveInterLanguageCommunicationDetection;
-import mlssdd.antipatterns.detection.repository.EILCModifiedForRocksdb;
+import mlssdd.antipatterns.detection.repository.ExcessiveInterLanguageCommunicationDetectionModified;
 import mlssdd.antipatterns.detection.repository.TooMuchClusteringDetectionModified;
 import mlssdd.antipatterns.detection.repository.TooMuchScatteringDetectionModified;
 import mlssdd.codesmells.detection.ICodeSmellDetection;
@@ -28,9 +27,8 @@ import mlssdd.codesmells.detection.repository.NotSecuringLibrariesDetection;
 import mlssdd.codesmells.detection.repository.NotUsingRelativePathDetection;
 import mlssdd.codesmells.detection.repository.PassingExcessiveObjectsDetection;
 import mlssdd.codesmells.detection.repository.UnusedDeclarationDetectionModified;
+import mlssdd.codesmells.detection.repository.UnusedImplementationDetectionModified
 import mlssdd.codesmells.detection.repository.UnusedParametersDetectionModified;
-
-import mlssdd.codesmells.detection.repository.NotUsingSafePoints;
 //import mlssdd.github.git.CloneRepository;
 import mlssdd.utils.CreateXml;
 
@@ -70,11 +68,8 @@ public class DetectCodeSmellsAndAntiPatterns {
                //  codeSmellDetectors.add(new UnusedDeclarationDetectionModified());
                //  //codeSmellDetectors.add(new UnusedImplementationDetectionModified());
 
-                codeSmellDetectors.add(new NotUsingSafePoints());
-
                //  //antiPatternDetectors
-               //    //      .add(new ExcessiveInterLanguageCommunicationDetection());
-               // antiPatternDetectors.add(new EILCModifiedForRocksdb());
+               //    //      .add(new ExcessiveInterLanguageCommunicationDetectionModified());
                //  antiPatternDetectors.add(new TooMuchClusteringDetectionModified());
                //  // antiPatternDetectors.add(new TooMuchScatteringDetectionModified());
 
